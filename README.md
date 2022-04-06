@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://github.com/andreaiaia/andreaiaia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaiaia&layout=compact&theme=algolia" />
 </a>
