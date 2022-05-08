@@ -1,12 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="cover.jpg" height="175px" /></a>
 
-<h2 align="center">Hello there!</h2>
-<h4 align="center">(that's the part where you reply "General Kenobi!")</h4>
+<h2 align="center"><b>Hello there!</b> (this is the part where you reply "General Kenobi!")</h4>
 <br />
 
 <h1 align="center">I'm Andrea</h1>
 
-<p>I'm a passionate developer from Matera, Italy (pic above). I like writing code, taking pictures, taking long walks and creating stuff. Currently I study CS at Bologna while I work (god bless smart-working) for Credimi in Milan.</p>
+<p>I'm a passionate developer from Matera, Italy (pic above). I like writing code, taking pictures, taking long walks and creating stuff. Currently I study CS at Bologna while I work (god bless remote work) for Credimi in Milan.</p>
 
 <br />
 
@@ -20,13 +19,13 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaiaia&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaiaia&langs_count=8&theme=onedark" />
 </p>
 
 <a href="https://github.com/andreaiaia"><img alt="Andreaiaia's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Andreaiaia&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=Andreaiaia&show_icons=true&count_private=true&theme=onedark" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaiaia&theme=black-ice"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaiaia&theme=onedark"
     alt="andreaiaia" /></p>
 
 <br />
