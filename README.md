@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="cover.jpg" height="175px" /></a>
+<a href="#"><img width="100%" height="auto" src="cover.jpg" /></a>
 
 <h3 align="center"><b>Hello there!</b> (this is the part where you reply "General Kenobi!")</h3>
 <br />
