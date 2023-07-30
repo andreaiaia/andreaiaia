@@ -15,7 +15,7 @@
 
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/andreaiaia?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/andreaiaia?tab=followers"><img align="right" src="https://img.shields.io/github/followers/andreaiaia?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/andreaiaia"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=andreaiaia.andreaiaia&left_color=orange&right_color=blue"> </a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/andreaiaia?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/andreaiaia?tab=followers"><img align="right" src="https://img.shields.io/github/followers/andreaiaia?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p>
   <img align="right"
