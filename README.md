@@ -5,7 +5,7 @@
 
 <h1 align="center">I'm Andrea</h1>
 
-<p>I'm a passionate developer from Matera, Italy (pic above). I like writing code, taking pictures, taking long walks and creating stuff. Currently I study CS at Bologna while I work (god bless remote work) for Credimi in Milan.</p>
+<p>I'm a passionate developer from Matera, Italy (pic above). I like writing code, taking pictures, taking long walks and creating stuff. Currently I work at <a href="https://www.bancacfplus.it">Banca CF+</a> and I am finishing my CS studies at University of Bologna.</p>
 
 <br />
 
