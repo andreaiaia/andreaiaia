@@ -17,14 +17,6 @@
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/andreaiaia?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/andreaiaia?tab=followers"><img align="right" src="https://img.shields.io/github/followers/andreaiaia?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p>
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaiaia&langs_count=8&theme=onedark" />
-</p>
-
-<a href="https://github.com/andreaiaia"><img alt="Andreaiaia's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Andreaiaia&show_icons=true&count_private=true&theme=onedark" /></a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaiaia&theme=onedark"
     alt="andreaiaia" /></p>
 
