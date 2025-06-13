@@ -15,13 +15,6 @@
 
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/andreaiaia?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/andreaiaia?tab=followers"><img align="right" src="https://img.shields.io/github/followers/andreaiaia?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaiaia&theme=onedark"
-    alt="andreaiaia" /></p>
-
-<br />
-
 <h3 align="left">🚀 Tools and Languages:</h3>
 <br />
 <p align="center"> 
