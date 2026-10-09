@@ -5,13 +5,7 @@
 
 <h1 align="center">I'm Andrea</h1>
 
-<p>I'm a passionate developer from Matera, Italy (pic above). I like writing code, taking pictures, taking long walks and creating stuff. Currently I work at <a href="https://www.bancacfplus.it">Banca CF+</a> and I am finishing my CS studies at University of Bologna.</p>
-
-<br />
-
-<h2 align="center">🏆 Github Trophies</h2>
-<img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=andreaiaia&margin-w=15&margin-h=15&theme=onedark&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="100%"/>
+<p>I'm a passionate developer from Matera, Italy (pic above). I like writing code, taking pictures, taking long walks and creating stuff.</p>
 
 <br />
 
